@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Karakoti</h1>
-<h3 align="center">👋 Hi, I’m Kartik Karakoti, a passionate coder dedicated to honing my programming skills and building impactful projects. I’m currently focused on learning Python</h3>
+<h3 align="center"> a passionate coder dedicated to honing my programming skills and building impactful projects. I’m currently focused on learning Python</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikkarakoti" alt="kartikkarakoti" /></a> </p>
 
