@@ -25,6 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkarakoti&" alt="kartikkarakoti" /></p>
 
-
-![snake gif](https://github.com/KartikKarakoti/KartikKarakoti/blob/output/github-snake-dark.svg)
-
