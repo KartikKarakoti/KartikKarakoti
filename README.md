@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HarvardX: CS50's Introduction to Computer Science**
 
-- 👯 I’m looking to collaborate on **ML & AI**
+- 👯 I’m looking to collaborate on **AI & ML**
 
 - 📫 How to reach me **kartikkarakoti01@gmail.com**
 
