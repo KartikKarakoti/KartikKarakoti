@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/kartikkarakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikkarakoti" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kartikkarakoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartikkarakoti" height="30" width="40" /></a>
 </p>
-### **Tools & Platforms**
+**Tools & Platforms**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
