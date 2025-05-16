@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python 100DaysOfCode.<br>👯 I’m looking to collaborate on AI & ML.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HarvardX: CS50's Introduction to Computer Science.<br>💬 Ask me about designs and builds software that uses AI & ML. <br>⚡ Fun fact; I have more commits than coffee breaks ☕🚀<br>📫 How to reach me kartikkarakoti01@gmail.com
+🔭 I’m currently working on Python 100DaysOfCode.<br>👯 I’m looking to collaborate on AI & ML.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HarvardX: CS50's Introduction to Programming with Python.<br>💬 Ask me about designs and builds software that uses AI & ML. <br>⚡ Fun fact; I have more commits than coffee breaks ☕🚀<br>📫 How to reach me kartikkarakoti01@gmail.com
 
 
 ## 🌐 Socials:
